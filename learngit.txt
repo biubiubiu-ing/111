@@ -1,2 +1,6 @@
 git init
-git clone url
+git clone +url
+git add 
+git commit
+git push
+
